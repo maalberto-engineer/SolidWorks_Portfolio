@@ -101,9 +101,5 @@ A multi-part tool/handle assembly combining a long handle with a compact modeled
 - Mechanical component organization
 - Mass-property / measurement coursework preserved in the original archive
 
-## Contact
-
-Add your preferred email, LinkedIn, and existing GitHub profile here before publishing.
-
 ---
 Portfolio source files are shared for hiring and technical-review purposes. No reuse license is granted.
