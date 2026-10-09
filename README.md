@@ -4,7 +4,7 @@
 
 This repository is a compact portfolio of selected SOLIDWORKS coursework and personal work. It is designed so a reviewer can understand the projects quickly from images and animations, while the native `.SLDPRT` and `.SLDASM` files remain available for deeper technical review.
 
-**Live Portfolio:**  
+**Live Portfolio:** https://maalberto-engineer.github.io/SolidWorks_Portfolio
 
 > **Context:** Some original assignments were dimension-driven modeling exercises, while others involved assembling supplied or previously created components. The original prompts are no longer available, so the project descriptions below deliberately avoid claiming details that cannot be verified from the saved files.
 
